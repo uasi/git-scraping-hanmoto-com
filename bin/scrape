@@ -1,0 +1,13 @@
+#!/bin/bash
+
+fetch() {
+    local url=$1
+    local output=$2
+    curl -fsLS "$url" -o "$output"
+    printf "%s\t%s\n" "$output" "$?" >> status.txt
+}
+
+: > status.txt
+
+fetch "https://www.hanmoto.com/ci/bd/search/sdate/today/edate/today/hdt/新しい本/vw/rss20" today.rss
+fetch "https://www.hanmoto.com/ci/bd/search/sdate/day/edate/day/hdt/明日発売の本/order/desc/vw/rss20" tomorrow.rss
