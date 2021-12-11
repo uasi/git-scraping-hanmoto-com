@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version='2.0'
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+
+	<channel>
+		<title>新しい本 | 版元ドットコム</title>
+		<link>http://www.hanmoto.com/bd/search/sdate/today/edate/today/hdt/新しい本/order/desc</link>
+		<description>新しい本</description>
+		<language>ja-jp</language>
+		<pubDate>Sun, 12 Dec 2021 01:55:10 +0900</pubDate>
+		<lastBuildDate>Sun, 12 Dec 2021 01:55:10 +0900</lastBuildDate>
+		<dc:creator>版元ドットコム</dc:creator>
+		<copyright>Copyright (©) 2015 版元ドットコム</copyright>
+
+		<image>
+		<title>版元ドットコム</title>
+		<url>http://www.hanmoto.com/wp/images/hanmoto_logo_00.jpg</url>
+		<link>http://www.hanmoto.com/bd/search/sdate/today/edate/today/hdt/新しい本/order/desc</link>
+		<description>
+		現代では、「版元」とは出版社のことをさします。
+		版元ドットコムは、その版元が自由な意思のもとに集まってつくった会員制の団体です。
+		</description>
+		</image>
+
+				<item>
+			<title><![CDATA[
+			ミュージカル　ニャーロの一日 - 岡内淳子(著/文) | めでぃあ森]]></title>
+			<pubDate>Sun, 12 Dec 2021 00:00:00 +0900</pubDate>
+			<link>http://www.hanmoto.com/bd/isbn/9784910233079</link>
+			<guid isPermaLink="true">http://www.hanmoto.com/bd/isbn/9784910233079</guid>
+			<description>
+			<![CDATA[
+			<a href="http://www.hanmoto.com/bd/isbn/9784910233079"><img src="//www.hanmoto.com/bd/img/978-4-910233-07-9_120.jpg"></a>
+			重版出来予定　　書店発売日　2021年12月12日　ミュージカル　ニャーロの一日　（めでぃあ森）　岡内淳子(著/文)　　
+						 [<a href="http://www.hanmoto.com/bd/search/edate/today/genre_h/">芸術</a>]
+						]]>
+			</description>
+						<category><![CDATA[ 芸術 ]]></category>
+						<dc:creator><![CDATA[ 版元ドットコム ]]></dc:creator>
+		</item>
+				<item>
+			<title><![CDATA[
+			音楽 - 岡野大嗣(著/文) | ナナロク社]]></title>
+			<pubDate>Sun, 12 Dec 2021 00:00:00 +0900</pubDate>
+			<link>http://www.hanmoto.com/bd/isbn/9784867320075</link>
+			<guid isPermaLink="true">http://www.hanmoto.com/bd/isbn/9784867320075</guid>
+			<description>
+			<![CDATA[
+			<a href="http://www.hanmoto.com/bd/isbn/9784867320075"><img src="//www.hanmoto.com/bd/img/978-4-86732-007-5_120.jpg"></a>
+			重版出来予定　　書店発売日　2021年12月12日　音楽　（ナナロク社）　岡野大嗣(著/文)　　
+						 [<a href="http://www.hanmoto.com/bd/search/edate/today/genre_h/">文芸</a>]
+						]]>
+			</description>
+						<category><![CDATA[ 文芸 ]]></category>
+						<dc:creator><![CDATA[ 版元ドットコム ]]></dc:creator>
+		</item>
+				<item>
+			<title><![CDATA[
+			第3インタナショナルへの道 - 山内 昭人(著/文) | 九州大学出版会]]></title>
+			<pubDate>Sun, 12 Dec 2021 00:00:00 +0900</pubDate>
+			<link>http://www.hanmoto.com/bd/isbn/9784798503202</link>
+			<guid isPermaLink="true">http://www.hanmoto.com/bd/isbn/9784798503202</guid>
+			<description>
+			<![CDATA[
+			<a href="http://www.hanmoto.com/bd/isbn/9784798503202"><img src="//www.hanmoto.com/bd/img/978-4-7985-0320-2_120.jpg"></a>
+			重版出来予定　　書店発売日　2021年12月12日　第3インタナショナルへの道　（九州大学出版会）　山内 昭人(著/文)　　
+						]]>
+			</description>
+						<dc:creator><![CDATA[ 版元ドットコム ]]></dc:creator>
+		</item>
+				<item>
+			<title><![CDATA[
+			構築された仏教思想　覚鑁　 - 白石凌海(著/文)…他1名 | 佼成出版社]]></title>
+			<pubDate>Sun, 12 Dec 2021 00:00:00 +0900</pubDate>
+			<link>http://www.hanmoto.com/bd/isbn/9784333028603</link>
+			<guid isPermaLink="true">http://www.hanmoto.com/bd/isbn/9784333028603</guid>
+			<description>
+			<![CDATA[
+			<a href="http://www.hanmoto.com/bd/isbn/9784333028603"><img src="//www.hanmoto.com/bd/img/978-4-333-02860-3_120.jpg"></a>
+			重版出来予定　　書店発売日　2021年12月12日　構築された仏教思想　覚鑁　　（佼成出版社）　白石凌海(著/文), 白石凌海(著/文)　　
+						 [<a href="http://www.hanmoto.com/bd/search/edate/today/genre_h/">哲学・宗教</a>]
+						]]>
+			</description>
+						<category><![CDATA[ 哲学・宗教 ]]></category>
+						<dc:creator><![CDATA[ 版元ドットコム ]]></dc:creator>
+		</item>
+			</channel>
+</rss>
