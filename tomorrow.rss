@@ -7,12 +7,12 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
 
 	<channel>
-		<title>明日発売の本 | 版元ドットコム</title>
+		<title>2022-01-02〜2022-01-02 - フィード | 版元ドットコム</title>
 		<link>http://www.hanmoto.com/bd/search/sdate/day/edate/day/hdt/明日発売の本/order/desc</link>
-		<description>明日発売の本</description>
+		<description>2022-01-02〜2022-01-02 - フィード</description>
 		<language>ja-jp</language>
-		<pubDate>Fri, 31 Dec 2021 06:19:59 +0900</pubDate>
-		<lastBuildDate>Fri, 31 Dec 2021 06:19:59 +0900</lastBuildDate>
+		<pubDate>Sat, 01 Jan 2022 06:19:53 +0900</pubDate>
+		<lastBuildDate>Sat, 01 Jan 2022 06:19:53 +0900</lastBuildDate>
 		<dc:creator>版元ドットコム</dc:creator>
 		<copyright>Copyright (©) 2015 版元ドットコム</copyright>
 
@@ -26,51 +26,5 @@
 		</description>
 		</image>
 
-				<item>
-			<title><![CDATA[
-			大分弁俳句集 - 油布　晃(著/文)…他3名 | 銀の鈴社]]></title>
-			<pubDate>Sat, 01 Jan 2022 00:00:00 +0900</pubDate>
-			<link>http://www.hanmoto.com/bd/isbn/9784866181288</link>
-			<guid isPermaLink="true">http://www.hanmoto.com/bd/isbn/9784866181288</guid>
-			<description>
-			<![CDATA[
-			<a href="http://www.hanmoto.com/bd/isbn/9784866181288"><img src="//www.hanmoto.com/bd/img/978-4-86618-128-8_120.jpg"></a>
-			重版出来予定　　発売予定日　2022年1月1日　大分弁俳句集　（銀の鈴社）　油布 晃(著/文), 古田 恵美子(著/文), 早川 和(イラスト), 高山 奉子(イラスト)　　
-						 [<a href="http://www.hanmoto.com/bd/search/edate/today/genre_h/">文芸</a>]
-						]]>
-			</description>
-						<category><![CDATA[ 文芸 ]]></category>
-						<dc:creator><![CDATA[ 版元ドットコム ]]></dc:creator>
-		</item>
-				<item>
-			<title><![CDATA[
-			美術年鑑　令和4年版 - 美術年鑑編集部(編集) | 美術年鑑社]]></title>
-			<pubDate>Sat, 01 Jan 2022 00:00:00 +0900</pubDate>
-			<link>http://www.hanmoto.com/bd/isbn/9784892102301</link>
-			<guid isPermaLink="true">http://www.hanmoto.com/bd/isbn/9784892102301</guid>
-			<description>
-			<![CDATA[
-			<a href="http://www.hanmoto.com/bd/isbn/9784892102301"><img src="//www.hanmoto.com/bd/img/978-4-89210-230-1_120.jpg"></a>
-			重版出来予定　　発売予定日　2022年1月1日　美術年鑑　令和4年版　（美術年鑑社）　美術年鑑編集部(編集)　　
-						]]>
-			</description>
-						<dc:creator><![CDATA[ 版元ドットコム ]]></dc:creator>
-		</item>
-				<item>
-			<title><![CDATA[
-			保育ナビ - 網野武博(著/文)…他1名 | フレーベル館]]></title>
-			<pubDate>Sat, 01 Jan 2022 00:00:00 +0900</pubDate>
-			<link>http://www.hanmoto.com/bd/isbn/9784577815007</link>
-			<guid isPermaLink="true">http://www.hanmoto.com/bd/isbn/9784577815007</guid>
-			<description>
-			<![CDATA[
-			<a href="http://www.hanmoto.com/bd/isbn/9784577815007"><img src="//www.hanmoto.com/bd/img/978-4-577-81500-7_120.jpg"></a>
-			重版出来予定　　発売予定日　2022年1月1日　保育ナビ　（フレーベル館）　網野武博(著/文), 大日向雅美(著/文)　　
-						 [<a href="http://www.hanmoto.com/bd/search/edate/today/genre_h/">教育</a>]
-						]]>
-			</description>
-						<category><![CDATA[ 教育 ]]></category>
-						<dc:creator><![CDATA[ 版元ドットコム ]]></dc:creator>
-		</item>
 			</channel>
 </rss>
