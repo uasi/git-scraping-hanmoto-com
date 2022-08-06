@@ -7,12 +7,12 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
 
 	<channel>
-		<title>新しい本 | 版元ドットコム</title>
+		<title>2022-08-07〜2022-08-07 - フィード | 版元ドットコム</title>
 		<link>http://www.hanmoto.com/bd/search/sdate/today/edate/today/hdt/新しい本/order/desc</link>
-		<description>新しい本</description>
+		<description>2022-08-07〜2022-08-07 - フィード</description>
 		<language>ja-jp</language>
-		<pubDate>Sat, 06 Aug 2022 06:08:41 +0900</pubDate>
-		<lastBuildDate>Sat, 06 Aug 2022 06:08:41 +0900</lastBuildDate>
+		<pubDate>Sun, 07 Aug 2022 06:08:37 +0900</pubDate>
+		<lastBuildDate>Sun, 07 Aug 2022 06:08:37 +0900</lastBuildDate>
 		<dc:creator>版元ドットコム</dc:creator>
 		<copyright>Copyright (©) 2015 版元ドットコム</copyright>
 
@@ -26,19 +26,5 @@
 		</description>
 		</image>
 
-				<item>
-			<title><![CDATA[
-			遠坂あさぎオリジナルアートワークス Sanctuaire - 1 | ホビージャパン]]></title>
-			<pubDate>Sat, 06 Aug 2022 00:00:00 +0900</pubDate>
-			<link>http://www.hanmoto.com/bd/isbn/9784798627847</link>
-			<guid isPermaLink="true">http://www.hanmoto.com/bd/isbn/9784798627847</guid>
-			<description>
-			<![CDATA[
-			<a href="http://www.hanmoto.com/bd/isbn/9784798627847"><img src="//www.hanmoto.com/bd/img/978-4-7986-2784-7_120.jpg"></a>
-			重版出来予定　　書店発売日　2022年8月6日　遠坂あさぎオリジナルアートワークス Sanctuaire　（ホビージャパン）　　　
-						]]>
-			</description>
-						<dc:creator><![CDATA[ 版元ドットコム ]]></dc:creator>
-		</item>
 			</channel>
 </rss>
