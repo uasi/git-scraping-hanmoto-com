@@ -7,12 +7,12 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
 
 	<channel>
-		<title>2022-12-31〜2022-12-31 - フィード | 版元ドットコム</title>
+		<title>新しい本 | 版元ドットコム</title>
 		<link>http://www.hanmoto.com/bd/search/sdate/today/edate/today/hdt/新しい本/order/desc</link>
-		<description>2022-12-31〜2022-12-31 - フィード</description>
+		<description>新しい本</description>
 		<language>ja-jp</language>
-		<pubDate>Sat, 31 Dec 2022 06:08:04 +0900</pubDate>
-		<lastBuildDate>Sat, 31 Dec 2022 06:08:04 +0900</lastBuildDate>
+		<pubDate>Sun, 01 Jan 2023 06:08:08 +0900</pubDate>
+		<lastBuildDate>Sun, 01 Jan 2023 06:08:08 +0900</lastBuildDate>
 		<dc:creator>版元ドットコム</dc:creator>
 		<copyright>Copyright (©) 2015 版元ドットコム</copyright>
 
@@ -26,5 +26,65 @@
 		</description>
 		</image>
 
+				<item>
+			<title><![CDATA[
+			「夜ゼミ」の時間 - 室津 波光(著/文) | 鳥影社]]></title>
+			<pubDate>Sun, 01 Jan 2023 00:00:00 +0900</pubDate>
+			<link>http://www.hanmoto.com/bd/isbn/9784862659897</link>
+			<guid isPermaLink="true">http://www.hanmoto.com/bd/isbn/9784862659897</guid>
+			<description>
+			<![CDATA[
+			<a href="http://www.hanmoto.com/bd/isbn/9784862659897"><img src="//www.hanmoto.com/bd/img/978-4-86265-989-7_120.jpg"></a>
+			重版出来予定　　書店発売日　2023年1月1日　「夜ゼミ」の時間　（鳥影社）　室津 波光(著/文)　　
+						]]>
+			</description>
+						<dc:creator><![CDATA[ 版元ドットコム ]]></dc:creator>
+		</item>
+				<item>
+			<title><![CDATA[
+			ないない島 - ゆうき えみ(著/文) | 明眸社]]></title>
+			<pubDate>Sun, 01 Jan 2023 00:00:00 +0900</pubDate>
+			<link>http://www.hanmoto.com/bd/isbn/9784990671952</link>
+			<guid isPermaLink="true">http://www.hanmoto.com/bd/isbn/9784990671952</guid>
+			<description>
+			<![CDATA[
+			<a href="http://www.hanmoto.com/bd/isbn/9784990671952"><img src="//www.hanmoto.com/bd/img/978-4-9906719-5-2_120.jpg"></a>
+			重版出来予定　　書店発売日　2023年1月1日　ないない島　（明眸社）　ゆうき えみ(著/文)　　
+						 [<a href="http://www.hanmoto.com/bd/search/edate/today/genre_h/">文芸</a>]
+						]]>
+			</description>
+						<category><![CDATA[ 文芸 ]]></category>
+						<dc:creator><![CDATA[ 版元ドットコム ]]></dc:creator>
+		</item>
+				<item>
+			<title><![CDATA[
+			財界人文芸誌　季刊ほほづゑ第115号 (特集　平和） - 安嶋　明(編集) | 万来舎]]></title>
+			<pubDate>Sun, 01 Jan 2023 00:00:00 +0900</pubDate>
+			<link>http://www.hanmoto.com/bd/isbn/9784908493614</link>
+			<guid isPermaLink="true">http://www.hanmoto.com/bd/isbn/9784908493614</guid>
+			<description>
+			<![CDATA[
+			<a href="http://www.hanmoto.com/bd/isbn/9784908493614"><img src="//www.hanmoto.com/bd/img/978-4-908493-61-4_120.jpg"></a>
+			重版出来予定　　書店発売日　2023年1月1日　財界人文芸誌　季刊ほほづゑ第115号 (特集　平和）　（万来舎）　安嶋 明(編集)　　
+						 [<a href="http://www.hanmoto.com/bd/search/edate/today/genre_h/">文芸</a>]
+						]]>
+			</description>
+						<category><![CDATA[ 文芸 ]]></category>
+						<dc:creator><![CDATA[ 版元ドットコム ]]></dc:creator>
+		</item>
+				<item>
+			<title><![CDATA[
+			美術年鑑2023　令和5年版 - 美術年鑑編集部(編集) | 美術年鑑社]]></title>
+			<pubDate>Sun, 01 Jan 2023 00:00:00 +0900</pubDate>
+			<link>http://www.hanmoto.com/bd/isbn/9784892102332</link>
+			<guid isPermaLink="true">http://www.hanmoto.com/bd/isbn/9784892102332</guid>
+			<description>
+			<![CDATA[
+			<a href="http://www.hanmoto.com/bd/isbn/9784892102332"><img src="//www.hanmoto.com/bd/img/978-4-89210-233-2_120.jpg"></a>
+			重版出来予定　　書店発売日　2023年1月1日　美術年鑑2023　令和5年版　（美術年鑑社）　美術年鑑編集部(編集)　　
+						]]>
+			</description>
+						<dc:creator><![CDATA[ 版元ドットコム ]]></dc:creator>
+		</item>
 			</channel>
 </rss>
