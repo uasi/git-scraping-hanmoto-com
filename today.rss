@@ -7,12 +7,12 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
 
 	<channel>
-		<title>2023-01-02〜2023-01-02 - フィード | 版元ドットコム</title>
+		<title>新しい本 | 版元ドットコム</title>
 		<link>http://www.hanmoto.com/bd/search/sdate/today/edate/today/hdt/新しい本/order/desc</link>
-		<description>2023-01-02〜2023-01-02 - フィード</description>
+		<description>新しい本</description>
 		<language>ja-jp</language>
-		<pubDate>Mon, 02 Jan 2023 06:08:07 +0900</pubDate>
-		<lastBuildDate>Mon, 02 Jan 2023 06:08:07 +0900</lastBuildDate>
+		<pubDate>Tue, 03 Jan 2023 06:08:12 +0900</pubDate>
+		<lastBuildDate>Tue, 03 Jan 2023 06:08:12 +0900</lastBuildDate>
 		<dc:creator>版元ドットコム</dc:creator>
 		<copyright>Copyright (©) 2015 版元ドットコム</copyright>
 
@@ -26,5 +26,19 @@
 		</description>
 		</image>
 
+				<item>
+			<title><![CDATA[
+			プレゼンテーション教育ハンドブック - 中野　美香(著/文) | ナカニシヤ出版]]></title>
+			<pubDate>Tue, 03 Jan 2023 00:00:00 +0900</pubDate>
+			<link>http://www.hanmoto.com/bd/isbn/9784779516450</link>
+			<guid isPermaLink="true">http://www.hanmoto.com/bd/isbn/9784779516450</guid>
+			<description>
+			<![CDATA[
+			<a href="http://www.hanmoto.com/bd/isbn/9784779516450"><img src="//www.hanmoto.com/bd/img/978-4-7795-1645-0_120.jpg"></a>
+			重版出来予定　　書店発売日　2023年1月3日　プレゼンテーション教育ハンドブック　（ナカニシヤ出版）　中野 美香(著/文)　　
+						]]>
+			</description>
+						<dc:creator><![CDATA[ 版元ドットコム ]]></dc:creator>
+		</item>
 			</channel>
 </rss>
