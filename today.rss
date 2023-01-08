@@ -7,12 +7,12 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
 
 	<channel>
-		<title>2023-01-08〜2023-01-08 - フィード | 版元ドットコム</title>
+		<title>新しい本 | 版元ドットコム</title>
 		<link>http://www.hanmoto.com/bd/search/sdate/today/edate/today/hdt/新しい本/order/desc</link>
-		<description>2023-01-08〜2023-01-08 - フィード</description>
+		<description>新しい本</description>
 		<language>ja-jp</language>
-		<pubDate>Sun, 08 Jan 2023 06:08:06 +0900</pubDate>
-		<lastBuildDate>Sun, 08 Jan 2023 06:08:06 +0900</lastBuildDate>
+		<pubDate>Mon, 09 Jan 2023 06:08:00 +0900</pubDate>
+		<lastBuildDate>Mon, 09 Jan 2023 06:08:00 +0900</lastBuildDate>
 		<dc:creator>版元ドットコム</dc:creator>
 		<copyright>Copyright (©) 2015 版元ドットコム</copyright>
 
@@ -26,5 +26,21 @@
 		</description>
 		</image>
 
+				<item>
+			<title><![CDATA[
+			一発の銃弾 - 罪様３号(著/文) | ごま書房新社]]></title>
+			<pubDate>Mon, 09 Jan 2023 00:00:00 +0900</pubDate>
+			<link>http://www.hanmoto.com/bd/isbn/9784341088293</link>
+			<guid isPermaLink="true">http://www.hanmoto.com/bd/isbn/9784341088293</guid>
+			<description>
+			<![CDATA[
+			<a href="http://www.hanmoto.com/bd/isbn/9784341088293"><img src="//www.hanmoto.com/bd/img/978-4-341-08829-3_120.jpg"></a>
+			重版出来予定　　書店発売日　2023年1月9日　一発の銃弾　（ごま書房新社）　罪様3号(著/文)　　
+						 [<a href="http://www.hanmoto.com/bd/search/edate/today/genre_h/">文芸</a>]
+						]]>
+			</description>
+						<category><![CDATA[ 文芸 ]]></category>
+						<dc:creator><![CDATA[ 版元ドットコム ]]></dc:creator>
+		</item>
 			</channel>
 </rss>
