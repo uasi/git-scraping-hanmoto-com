@@ -1,2 +1,2 @@
-today.rss	22
+today.rss	0
 tomorrow.rss	0
